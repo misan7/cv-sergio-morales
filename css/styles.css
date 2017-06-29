@@ -323,3 +323,7 @@ section:last-child {
     background-color: #555555;
     color: white;
 }
+
+strong {
+	font-weight: bold;
+}
