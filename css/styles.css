@@ -61,6 +61,8 @@ p {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
+	padding-bottom: 25px;
+	padding-top: 25px;
 }
 
 #myphoto img {
