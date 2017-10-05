@@ -116,6 +116,18 @@ section:last-child {
 	padding: 20px 0 10px;
 }
 
+.skills {
+	font-size: 0.9em;
+	font-style: italic;
+	margin-bottom: 15px;
+	margin-top: -10px;
+}
+
+.gitLinks {
+	color: #3498DB; 
+	text-decoration: none;
+}
+
 .sectionTitle {
 	float: left;
 	width: 25%;
@@ -157,6 +169,10 @@ section:last-child {
 
 .keySkills ul li {
 	margin-bottom: 3px;
+}
+
+.keySkill1:hover {
+	cursor: crosshair;
 }
 
 @media all and (min-width: 721px) and (max-width: 1000px) {
